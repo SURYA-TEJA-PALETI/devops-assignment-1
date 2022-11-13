@@ -7,4 +7,4 @@ Demo
 http://suryateja.tech
 
 Support
-For support, email 2022ht66012@wilp.bits-pilani.ac.in
+For support, email 2022ht66085@wilp.bits-pilani.ac.in
