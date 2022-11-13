@@ -1,2 +1,10 @@
-# devops-assignment-1
-Assignment on GIT for CSIZG514
+This project is created as part of an assignment in "Introduction to Devops - CSIZG514" course.
+
+Authors
+@SURYA-TEJA-PALETI
+
+Demo
+http://suryateja.tech
+
+Support
+For support, email 2022ht66012@wilp.bits-pilani.ac.in
